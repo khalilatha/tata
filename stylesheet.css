@@ -188,10 +188,10 @@ body {
     padding-top: 30px;
   }
 @media (max-width: 1000px) {
-  .item {
+  .top-wrapper {
     width: 50%;
   }
 @media (max-width: 670px) {
-  .item {
+  .top-wrapper {
     width: 100%;
   }
